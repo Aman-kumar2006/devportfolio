@@ -9,7 +9,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://amankumar.vercel.app"),
+  metadataBase: new URL("https://amankumar2006.vercel.app/"),
   title: {
     default: "Aman Kumar — Full-Stack Developer, Ranchi",
     template: "%s | Aman Kumar",
@@ -77,10 +77,10 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
               "@graph": [
                 {
                   "@type": "Person",
-                  "@id": "https://amankumar.vercel.app/#person",
+                  "@id": "https://amankumar2006.vercel.app/#person",
                   name: "Aman Kumar",
-                  url: "https://amankumar.vercel.app",
-                  image: "https://amankumar.vercel.app/assets/img/portrait.avif",
+                  url: "https://amankumar2006.vercel.app/",
+                  image: "https://amankumar2006.vercel.app/assets/img/portrait.avif",
                   jobTitle: "Aspiring Full-Stack Developer",
                   description:
                     "Third-year B.Tech Computer Science student building full-stack projects.",
@@ -99,11 +99,11 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                 },
                 {
                   "@type": "WebSite",
-                  "@id": "https://amankumar.vercel.app/#website",
-                  url: "https://amankumar.vercel.app",
+                  "@id": "https://amankumar2006.vercel.app/#website",
+                  url: "https://amankumar2006.vercel.app/",
                   name: "Aman Kumar",
                   description: "A build log from Ranchi, Jharkhand.",
-                  publisher: { "@id": "https://amankumar.vercel.app/#person" },
+                  publisher: { "@id": "https://amankumar2006.vercel.app/#person" },
                 },
               ],
             }),

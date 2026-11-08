@@ -5,7 +5,7 @@
 > A personal portfolio and public build log for Aman Kumar — an aspiring
 > full-stack developer from Ranchi, Jharkhand, India.
 
-[![Live portfolio](https://img.shields.io/badge/Live%20portfolio-amankumar.vercel.app-ff4d1f?style=for-the-badge&logo=vercel&logoColor=white)](https://amankumar.vercel.app)
+[![Live portfolio](https://img.shields.io/badge/Live%20portfolio-amankumar2006.vercel.app-ff4d1f?style=for-the-badge&logo=vercel&logoColor=white)](https://amankumar2006.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Aman--kumar2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-kumar2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-8b988b28b)
 
@@ -57,7 +57,7 @@ previews, and security headers.
 
 ## Connect
 
-- Website: [amankumar.vercel.app](https://amankumar.vercel.app)
+- Website: [amankumar2006.vercel.app](https://amankumar2006.vercel.app/)
 - GitHub: [Aman-kumar2006](https://github.com/Aman-kumar2006)
 - LinkedIn: [Aman Kumar](https://www.linkedin.com/in/aman-kumar-8b988b28b)
 - Email: [amankumar.kumar2006@gmail.com](mailto:amankumar.kumar2006@gmail.com)
