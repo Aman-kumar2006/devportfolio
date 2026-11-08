@@ -1,0 +1,22 @@
+# Aman Kumar
+
+> Personal portfolio and build log for Aman Kumar, an aspiring full-stack developer based in Ranchi, Jharkhand, India.
+
+## Canonical
+
+- Website: https://amankumar.vercel.app
+- GitHub: https://github.com/Aman-kumar2006
+- LinkedIn: https://www.linkedin.com/in/aman-kumar-8b988b28b
+
+## Profile
+
+Aman is a third-year B.Tech Computer Science student at ICFAI University, Jharkhand (2023–2027). He is learning and building with HTML, CSS, JavaScript, React, Python, SQL, and Node.js.
+
+## Portfolio sections
+
+- Origin: education, interests, and current learning focus.
+- Stack: honest working knowledge ratings for HTML, CSS, Python, JavaScript, and React.
+- Log: education and HackFest 2025 experience with Team BinaryBrain.
+- Proof: certificates and workshops.
+- Builds: portfolio, Python CLI calculator, and responsive web page exercises.
+- Contact: ways to reach Aman for a project, hackathon team, or question.
