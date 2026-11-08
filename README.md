@@ -33,6 +33,7 @@ I currently work across:
 - **Current focus:** MERN fundamentals, Python, SQL, responsive interfaces, and
   shipping projects in public
 
+
 ## What is inside
 
 - **Origin** — background, education, interests, and current direction.
